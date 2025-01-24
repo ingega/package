@@ -1,10 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Edmundo Garcia",
 	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"author": "Edmundo Garcia",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
